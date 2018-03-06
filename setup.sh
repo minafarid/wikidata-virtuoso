@@ -19,7 +19,7 @@ docker run \
 	-v $PWD/cache:/usr/src/app/cache \
 	-v $PWD/output:/usr/src/app/output \
 	-v $PWD/virtuoso:/var/lib/virtuoso-opensource-6.1/db \
-  -p 8890:8890 \
+  -p 8891:8890 \
 	-d \
   --restart=always \
 	wikidata-virtuoso:latest
