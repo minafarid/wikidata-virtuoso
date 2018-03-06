@@ -1,3 +1,8 @@
+### Modifications to the original repo
+
+* Newer dump of Wikidata `2016-08-01`
+* Changed exposed port to `8891`
+
 # Wikidata → Virtuoso
 
 This fully automated tool downloads and processes a [Wikidata RDF dump](https://tools.wmflabs.org/wikidata-exports/rdf/) (currently 2015-01-26), imports it into a [Virtuoso Open-Source Edition](https://github.com/openlink/virtuoso-opensource) quad store, and makes the Linked Data available via Virtuoso's built-in SPARQL endpoint.
