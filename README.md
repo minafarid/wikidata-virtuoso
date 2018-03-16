@@ -1,3 +1,5 @@
+### Last updated: March 2018
+
 ### Modifications to the original repo
 
 * Newer dump of Wikidata `2016-08-01`
